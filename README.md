@@ -1,4 +1,4 @@
-###  ¡Hi there 👋! I´m a Full-Stack Developer. 👩‍💻  <br>
+###  ¡Hi there 👋! I´m a Full-Stack Dev 👩‍💻 Always trying to look for ways to keep learning. <br>
 Feel free to ask me anything <a href="https://github.com/SORAYARG/Sorayarg/issues/new"><b>here</b></a> or <a href="mailto:sorayarg25@gmail.com"><b>email</b></a> me.
 
 ## SOFT SKILLS
