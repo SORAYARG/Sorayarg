@@ -7,6 +7,6 @@ Feel free to ask me anything <a href="https://github.com/SORAYARG/Sorayarg/issue
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,express,mongodb" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=sass,docker,git,figma,bootstrap,mui" />
+    <img src="https://skillicons.dev/icons?i=sass,docker,git,figma,bootstrap,mui,jest" />
   </a>
 </p>
